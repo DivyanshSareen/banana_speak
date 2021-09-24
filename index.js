@@ -8,7 +8,7 @@ function display(message){
 }
 
 function disp_error(e){
-    alert(e)
+    alert(e);
 }
 
 function get_translate(e){
