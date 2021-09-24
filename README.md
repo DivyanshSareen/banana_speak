@@ -9,6 +9,6 @@ This project was developed for neogcamp portfolio submission.
 
 ### Live Demo
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/74a38574-ba50-4bdd-bd99-07934480004c/deploy-status)](https://morsegenerator.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/74a38574-ba50-4bdd-bd99-07934480004c/deploy-status)](https://minionesegenerator.netlify.app)
 
 Note: There is a limit on the API
