@@ -1,5 +1,5 @@
 ## banana_speak
-Translates English text to morse code using this [API](https://funtranslations.com/api/minion). 
+Translates English text to minion language using this [API](https://funtranslations.com/api/minion). 
 
 This project was developed for neogcamp portfolio submission.
 
