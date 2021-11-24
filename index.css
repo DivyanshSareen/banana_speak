@@ -1,8 +1,10 @@
 body {
   margin: 0%;
   padding: 0%;
-  color: yellow;
-  background: #ffff8d;
+  background: #FFE652;
+  color: #009DAE;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
 }
 
 .output {
@@ -13,14 +15,21 @@ body {
 }
 
 textarea {
-  border: 1px checked black;
+  border: 1px checked #C2FFF9;
+  border-radius: 4px;
   width: 50%;
   height: 7rem;
+  background: #C2FFF9;
+  color: #2196f3;
 }
 
 footer {
   padding: 2em;
-  background: yellow;
+  background: #C2FFF9;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%
 }
 header {
   padding: 1em;
@@ -29,4 +38,14 @@ header {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: #2196f3;
   opacity: 1; /* Firefox */
+}
+button{
+  border: 0.5px solid #FFE652;
+  border-radius: 4px;
+  background: #009DAE;
+  color: #C2FFF9;
+  height: 2rem;
+}
+#title{
+  font-size: xx-large;
 }
