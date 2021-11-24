@@ -4,7 +4,7 @@ Translates English text to minion language using this [API](https://funtranslati
 This project was developed for neogcamp portfolio submission.
 
 ### Preview
-![image](https://user-images.githubusercontent.com/59335572/134687262-ef43e468-ed1c-482f-a819-8d41cfdb4e24.png)
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/59335572/143216501-956d3df5-c9c8-4d74-8c48-e6473fb7f602.png">
 
 
 ### Live Demo
